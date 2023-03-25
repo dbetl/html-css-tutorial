@@ -1,0 +1,113 @@
+.google-logo {
+    width: 200px;
+    display: block;
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
+
+.google-textbox {
+    width: 500px;
+    border-radius: 30px;
+    border-width: 1px;
+    border-color: gray;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border: none;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+    font-size: 16px;
+    margin-bottom: 50px;
+    display: block;
+
+}
+
+.first-name,
+.last-name {
+    width: 100px;
+    display: inline-block;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-radius: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(201, 194, 194);
+    font-family: Arial;
+}
+
+.email-text {
+    display: block;
+    width: 227px;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(201, 194, 194);
+    font-family: Arial;
+    margin-bottom: 10px;
+}
+
+.signup-button {
+width: 250px;
+padding-top: 10px;
+padding-bottom: 10px;
+background-color: rgb(0, 128, 255);
+color: white;
+border-radius: 10px;
+font-family: Arial;
+font-weight: bold;
+font-size: 15px;
+border: none;
+cursor: pointer;
+}
+
+.uber-text {
+font-size: 30px;
+font-family: Arial;
+}
+
+.enter-text {
+    display: block;
+    margin-bottom: 8px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 400px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(240, 240, 240);
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    font-size: 16px;
+
+}
+
+.request-uber {
+margin-top: 20px;
+margin-right: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+width: 130px;
+background-color: black;
+color: white;
+border: none;
+font-family: Arial;
+cursor: pointer;
+font-size: 16px;
+}
+
+.schedule-uber {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 180px;
+    border: none;
+    font-family: Arial;
+    cursor: pointer;
+    font-size: 16px;
+}
+

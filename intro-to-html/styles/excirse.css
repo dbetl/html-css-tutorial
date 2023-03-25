@@ -1,0 +1,24 @@
+p {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Montserrat', sans-serif;
+  
+}
+
+.model {
+  font-size: 30px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  
+}
+
+.order {
+  font-size: 18px;
+
+}
+
+.underlined {
+  text-decoration: underline;
+}
+  
