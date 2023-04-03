@@ -1,0 +1,43 @@
+.statement {
+    width: 450px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 6px;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+
+
+}
+
+.cat {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    object-fit: cover;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.text-box {
+    border: none;
+    font-size: 18px;
+    width: 300px;
+    vertical-align: middle;
+}
+
+.tweet-button {
+    background-color: rgb(0, 119, 255);
+    color: white;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 30px;
+    font-size: 16px;
+    font-weight: bold;
+    vertical-align: middle;
+}
