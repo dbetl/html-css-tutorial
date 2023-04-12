@@ -1,0 +1,104 @@
+body {
+    height: 3000px;
+}
+
+.bottom-right {
+    background-color: gray;
+    bottom: 20px;
+    right: 20px;
+    position: fixed;
+    font-size: 20px;
+    width: 320px;
+    height: 180px;
+   
+}
+
+
+.close-button {
+    background-color: black;
+    color: white;
+    top: -12px;
+    left: -12px;
+    position: absolute;
+    font-size: 20px;
+    width: 45px;
+    height: 45px;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial;
+
+}
+
+
+.time {
+    position: absolute;
+    bottom: 8px;
+    right: 8px;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    font-family: Arial;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.store-icon-container {
+    position: relative;
+    display: inline-block;
+}
+
+.clothe {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+   
+
+}
+
+.discount {
+    position: absolute;
+    top: 10px;
+    right: 0;
+    background-color: black;
+    color: white;
+    font-family: Arial;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: bold;
+}
+
+.bottom-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.add-to-cart-button {
+    background-color: white;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: Arial;
+    font-size: 15px;
+    cursor: pointer;
+    
+
+}
